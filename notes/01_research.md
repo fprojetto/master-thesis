@@ -141,19 +141,17 @@ The paper is from 2009 so I should check if it has been superseeded.
 
 - HeartHealth: A Persuasive Mobile App for Mitigating the Risk of Ischemic Heart Disease
 
-- The Race Towards Digital Wellbeing: Issues and Opportunities
-
-   ---> From the apps'reviews, it seems clear that different users are motivated by different things: some people like seeing data more while for others is essential to have leaderboards to understand how they are doing compared to other users. 
-
-   ---> Why don't certain habits require much "external" motivation? What I am trying to say comes from the observation that certain habits like walking or cycling are self-motivating. For this kind of habits, it's usually enough to offer data visualisation, metrics, and leaderboard to keep the user on track with habit formation.
-
-    ---> breaking habits != new habits formation. Many apps focus on breaking habits, eg. reduce screen time, but they don't help with replaceing the bad habits.
-
 ## Notes from The Race Towards Digital Wellbeing: Issues and Opportunities (de russis & monge - Politecnico)
 The paper analyses the current android app market to look for mobile apps that help users to break "smartphone addictions" and achieve "digital wellbeing". This research wants to find out the features available in mobile apps and how effective they are. They find out that those mobile apps are very appreciated by the users and the main "issue" with them is that they don't help users in building new healthy habits regarding using their smartphones.
 The main suggestions made by the authors are:
 1. Users might want/need more restrictive solutions to limit their excessive use of smartphones. 
 2. Apps should adopt tools and methodologies to support habits formation and make healthy habits persistent, eg. by increase the usage of positive reinforcement techniques, by providing cues and trigger events, social supporting techniques, interaction with other users, social games. They claim that digital wellbeing apps should be more grounded in the social cognitive theory.
+
+  ---> From the apps'reviews, it seems clear that different users are motivated by different things: some people like seeing data more while for others is essential to have leaderboards to understand how they are doing compared to other users. 
+
+   ---> Why don't certain habits require much "external" motivation? What I am trying to say comes from the observation that certain habits like walking or cycling are self-motivating. For this kind of habits, it's usually enough to offer data visualisation, metrics, and leaderboard to keep the user on track with habit formation.
+
+  ---> breaking habits != new habits formation. Many apps focus on breaking habits, eg. reduce screen time, but they don't help with replaceing the bad habits.
 
 ## Notes from Persuasive Systems Design: Key Issues, Process Model, and System Features
 In **computer-human** persuasion the persuader is not the computer ofc but the people who create, distribute, or adopt the technology.
