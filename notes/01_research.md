@@ -132,15 +132,6 @@ The paper is from 2009 so I should check if it has been superseeded.
 ## Society for Persuasion and Technology [4]
 **Definition:** Persuasive Technology is defined as technology that is designed to change attitudes or behaviours of the users through persuasion and social influence, not through coercion or deception. It includes persuasive communication pertaining to attitude and behaviour change systems, attitude and behaviour change through technology, related to issues relevant to individuals, to public- and private-sector organisations, and to society at a local, regional, national, or global level.
 
-## Other papers I have read or skimmed
-- Not (B)interested? Using Persuasive Technology to Promote Sustainable Household Recycling Behavior
-
-- A Review of the Use of Persuasive Technologies to Influence Sustainable Behaviour
-
-- Designing for App Usage Motivation to Support a Gluten-Free Diet by Comparing Various Persuasive Feedback Elements
-
-- HeartHealth: A Persuasive Mobile App for Mitigating the Risk of Ischemic Heart Disease
-
 ## Notes from The Race Towards Digital Wellbeing: Issues and Opportunities (de russis & monge - Politecnico)
 The paper analyses the current android app market to look for mobile apps that help users to break "smartphone addictions" and achieve "digital wellbeing". This research wants to find out the features available in mobile apps and how effective they are. They find out that those mobile apps are very appreciated by the users and the main "issue" with them is that they don't help users in building new healthy habits regarding using their smartphones.
 The main suggestions made by the authors are:
@@ -201,3 +192,12 @@ Search terms on google play: sleepfit. Selected some random apps that looked int
 [5] https://www.researchgate.net/publication/257411281_Persuasive_Systems_Design_Key_Issues_Process_Model_and_System_Features
 
 [6] https://www.researchgate.net/publication/353163463_SleepFit_A_Persuasive_Mobile_App_for_Improving_Sleep_Habits_in_Young_Adults
+
+## Other papers I have read or skimmed
+- Not (B)interested? Using Persuasive Technology to Promote Sustainable Household Recycling Behavior
+
+- A Review of the Use of Persuasive Technologies to Influence Sustainable Behaviour
+
+- Designing for App Usage Motivation to Support a Gluten-Free Diet by Comparing Various Persuasive Feedback Elements
+
+- HeartHealth: A Persuasive Mobile App for Mitigating the Risk of Ischemic Heart Disease
