@@ -1,6 +1,6 @@
 ---
 author: "Filippo Projetto"
-title: "01 - The research begins"
+title: "01 - Initial research"
 date: "2023-09-26"
 description: "How to build software systems to support positive behaviour change in people"
 tags: ["thesis"]
