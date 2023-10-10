@@ -176,9 +176,7 @@ Recognising the blocking issue is key to be able to change behaviour.
 
 ## Sleep apps
 
-Ricerca su google play con termini di ricerca = sleepfit. 
-
-Selezionato un po' a caso per vedere cosa c'e' di disponibile.
+Search terms on google play: sleepfit. Selected some random apps that looked interesting to me.
 
 - [Sleep Routine](https://play.google.com/store/apps/details?id=ai.asleep.android_aaron)
 
