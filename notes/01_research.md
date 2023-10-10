@@ -4,8 +4,6 @@ title: "01 - The research begins"
 date: "2023-09-26"
 description: "How to build software systems to support positive behaviour change in people"
 tags: ["thesis"]
-ShowToc: false
-ShowBreadCrumbs: false
 ---
 
 Most research begins with a question. Behaviour change is a research field that I am interested in and I would like to know more about it. I wonder if technology could help people in attaining new behaviours they could benefit from and here's where my research starts. I will be reading everything I can relevant to to the topic and its theoretical framework so to find a purpose for my thesis.
