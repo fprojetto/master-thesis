@@ -166,6 +166,8 @@ Wellness app developed using user-centered design approach and described using t
 
 ![sleepfit features](img/sleepfit_features.png)
 
+Table with core features from [6].
+
 ## Random
 
 "Although not sufficient, education is a necessary component for behaviour change", cit. Arlinghaus and Johnston. BCSSes are used in education less for imparting knowledge and more for teaching a difficult subject or for changing attitudes and beliefs about a topic of interest.
@@ -201,3 +203,5 @@ Selezionato un po' a caso per vedere cosa c'e' di disponibile.
 [4] [Society for Persuasion and Technology](https://persuasivetech.org/)
 
 [5] https://www.researchgate.net/publication/257411281_Persuasive_Systems_Design_Key_Issues_Process_Model_and_System_Features
+
+[6] https://www.researchgate.net/publication/353163463_SleepFit_A_Persuasive_Mobile_App_for_Improving_Sleep_Habits_in_Young_Adults
