@@ -1,7 +1,7 @@
 # Ideas for the product e/o research
 
 - Instead (in addition to) of conducting interviews with users, make a customizable app with adaptable strategies. PSD model principles used might vary over time depending on their actual and perceived effectiveness or user's preference.
-- Make evident the science that our intervention is based on.
+- Make evident the science that our system is based on.
 - TTM theory does not explicitily have a place for people that have failed in reaching the "termination" stage. Also, it's weird to call it termination when it's actually a starting point for a new life where you have finally take advantage of the newly formed behaviour naturally (ie. without the need for further interventions).
 - Find out the domino habit that will create a powerful ripple effect of change.
 - Create a mechanism to help users to get back to build healthy habits after they have had a break for any reasons.
@@ -38,9 +38,9 @@ A central feature of analyzing the intent is to consider the change type, in par
 ## Questions
 1. What's our thesis about?
 2. What do we want to build?
+
 We want to build a wellness mobile application that helps the user in improving its quality of life.
-   - Tracking.
-There are millions of apps that track and visualise health related statistics. That's not interesting for us. It's more something that needs to be done. But it won't be our differentiator, ie. a competitive advantage.
+   - Tracking. There are millions of apps that track and visualise health related statistics. That's not interesting for us. It's more something that needs to be done. But it won't be our differentiator, ie. a competitive advantage.
 
 Our competitive advange/innovation could be:
    - Adaptive interventions.
